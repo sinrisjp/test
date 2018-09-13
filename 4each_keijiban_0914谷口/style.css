@@ -1,0 +1,145 @@
+html{
+    font-family: sans-serif;
+}
+header img{position:absolute;
+    top: 0px;
+    left: 0px;
+    width:400px;
+    height:100px;
+}
+
+header ul{position:absolute;
+    top:100px;
+    left:0px;
+    width:100%;
+    height:60px;
+    background-color: black;
+}
+
+header ul li{
+    float: left;
+    list-style-type: none;
+    margin-top: 1em;
+    margin-left: 3%;
+    margin-right: 6.5%;
+    color: white;
+    font-size: 18px;
+}
+
+main{
+    clear:left;
+}
+
+.main-container{
+    width: 100%;
+    margin-top: 200px;
+}
+
+.left{float:left;
+    width: 80%;
+}
+
+.right{float: left;
+    width: 20%;
+}
+
+main h1{
+    border-left: solid 5px;
+    border-bottom: solid 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+main h2{
+    border-bottom: dotted 3px;
+    margin-bottom: 20px;
+}
+
+main ul{
+    list-style-type: none;
+}
+
+#right-list li{
+    padding-bottom: 5px;
+    padding-left: 30px;
+}
+
+.white_box{
+    width:100%;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+footer{
+    clear: left;
+    width:100%;
+    height: 60px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+}
+
+form h3{
+    margin-top: 30px;
+    margin-left: 15px;
+    border-left: 4px red solid;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+form{margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 98%;
+}
+
+form div{
+    padding: 15px;
+}
+
+text,textarea{
+    border: 1px #dfdfdf solid;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid light gray;
+    padding: 4px 10px;
+    color: white;
+    background-color: dimgray;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+    margin-bottom: 20px;
+}
+
+.kiji{
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 98%;
+}
+
+.kiji h3{
+    padding-left: 5px;
+    margin-left: 15px;
+    margin-right: 5px;
+    border-bottom: 4px solid #ebebeb;
+}
+
+.contents{
+    padding-left: 20px;
+}
+
+.handlename{
+    font-size: 12px;
+    padding-bottom: 15px;
+}

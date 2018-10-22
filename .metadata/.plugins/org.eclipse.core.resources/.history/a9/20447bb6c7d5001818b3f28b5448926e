@@ -1,0 +1,5 @@
+package jp.co.capsule.action;
+
+public class Person {
+
+}

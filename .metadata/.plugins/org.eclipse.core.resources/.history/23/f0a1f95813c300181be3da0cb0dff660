@@ -1,8 +1,0 @@
-
-public class List_Map_set {
-
-	public static void main(String[] args) {
-		System.out.prinln("Hello World!");
-	}
-
-}

@@ -1,0 +1,15 @@
+127.0.0.1 - - [25/Oct/2018:11:47:32 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:47:33 +0900] "GET /HelloServlet/ HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:47:40 +0900] "GET /HelloServlet/HelloServlet HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:29 +0900] "GET /HelloServlet/ HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:30 +0900] "GET /HelloServlet/welcome.jsp HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:32 +0900] "POST /WelcomeServlet HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:34 +0900] "GET /HelloServlet/welcome.jsp HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:35 +0900] "POST /WelcomeServlet HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:56 +0900] "GET /HelloServlet/ HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:57 +0900] "GET /HelloServlet/ HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:49:59 +0900] "GET /HelloServlet/welcome.jsp HTTP/1.1" 200 345
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:50:00 +0900] "POST /HelloServlet/WelcomeServlet HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:50:09 +0900] "POST /HelloServlet/WelcomeServlet HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:50:19 +0900] "POST /HelloServlet/WelcomeServlet HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [25/Oct/2018:11:50:23 +0900] "GET /HelloServlet/HelloServlet HTTP/1.1" 404 1069

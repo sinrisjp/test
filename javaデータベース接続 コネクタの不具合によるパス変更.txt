@@ -1,3 +1,6 @@
 コネクタのエラーのためのurlの変更
 
 localhost:3306?characterEncoding=UTF-8&serverTimezone=JST
+
+
+ウィンドウ>設定>データ管理>接続>ドライバの定義からpath(MySQLのドライバの場所）を変更すること

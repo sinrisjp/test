@@ -1,0 +1,10 @@
+package com.internous.dev.template.dao;
+
+import com.internous.dev.template.util.DateUtil;
+
+public class BuyItemCompleteDAO {
+	private DateUtil dateUtil = new DateUtil();
+	
+	private String sql = "INSERT INTO user_buy_item_transaction(itemtransactionid,"
+
+}

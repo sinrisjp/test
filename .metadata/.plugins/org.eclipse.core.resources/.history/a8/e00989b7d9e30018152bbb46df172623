@@ -1,0 +1,5 @@
+package com.internous.dev.template.dto;
+
+public class MyPageDTO {
+
+}

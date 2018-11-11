@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="description" content="" />
-<meta name="keyword" content="" />
+<meta name="keywords" content="" />
 <link rel="stylesheet" href="./css/style.css">
 <title>UserCreateComplete画面</title>
 </head>

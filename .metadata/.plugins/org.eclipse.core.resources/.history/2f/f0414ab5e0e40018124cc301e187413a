@@ -1,0 +1,9 @@
+package com.internousdev.ecsite.dao;
+
+import com.internousdev.ecsite.util.DBConnector;
+
+public class UserCreateCompleteDAO {
+	private DBConnector db = new DBConnector();
+
+
+}

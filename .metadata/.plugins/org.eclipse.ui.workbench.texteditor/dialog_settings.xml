@@ -13,12 +13,13 @@
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="count" key="selection"/>
-		<item value="true" key="casesensitive"/>
+		<item value="Flg" key="selection"/>
+		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="flg"/>
 			<item value="count"/>
 			<item value="total_count"/>
 			<item value="total"/>
@@ -26,7 +27,6 @@
 			<item value="resultSet"/>
 			<item value="preparedStatement"/>
 			<item value="loginDTO"/>
-			<item value="connection"/>
 		</list>
 		<list key="replacehistory">
 			<item value="rs"/>

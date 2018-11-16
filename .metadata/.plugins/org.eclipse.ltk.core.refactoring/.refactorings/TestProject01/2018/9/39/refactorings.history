@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="コンパイル単位名 &apos;List_Map_set.java&apos; を &apos;ListSample.java&apos; に変更&#x0D;&#x0A;- 元のプロジェクト: &apos;TestProject01&apos;&#x0D;&#x0A;- オリジナル要素: &apos;List_Map_set.java&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;ListSample.java&apos;" description="コンパイル単位名 &apos;List_Map_set.java&apos; を変更します" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{List_Map_set.java" name="ListSample.java" references="false" stamp="1538135989827" version="1.0"/>
-</session>

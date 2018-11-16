@@ -1,9 +1,0 @@
-package com.internous.dev.template.action;
-
-import java.util.Map;
-
-public class BuyItemConfirmAction extends ActionSupport implements SessionAware {
-	private Map<String,Object> session;
-
-
-}
